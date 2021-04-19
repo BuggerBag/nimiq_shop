@@ -49,4 +49,4 @@ ________________________
 
 #### @Buy webhost/then setup/then Go.
 #### NIMIQ Blockchain support BTC too.
-#### In future we tell you, How to Obfuscate Webpage that can be run on server but anyone can't know what happen to it! {also advanced developer}
+#### 🎩In future we tell you, How to Obfuscate Webpage that can be run on server but anyone can't know what happen to it! {also advanced developer}🎩 /Comming Soon
