@@ -1,5 +1,5 @@
-## Nimipay - Simple and Flexible Payments Gateway
-<br> <img src="https://splianel.sirv.com/Obfuscation.jpg" width="560" alt="" /> <br>
+## Nimipay - Simple and Flexible Payments Gateway🎩
+<img src="https://splianel.sirv.com/Obfuscation.jpg" width="560" alt="" /> <br>
 Demo: https://nimipay.com
 
 Nimipay creates an overlayed UI for the interaction with the user's NIM wallet, shopping cart, and items.
@@ -51,8 +51,8 @@ Feel free to make a pull request or suggest ideas.
 <br>
 <br>
 ________________________
-#### BigThank's to https://github.com/giekaton
-#### How to Setup on localhost (you can pass it to real webserver too!)
+#### BigThank's to https://github.com/giekaton 
+#### 🎩How to Setup on localhost (you can pass it to real webserver too!)🎩
 1) install XAMP Local Server <br>
 2) Clone & Copy all to htcdoc dir <br>
 3) Goto http://localhost/phpmyadmin and Create new database, name it "nimipy", change charset to "latin1_bin" <br>
