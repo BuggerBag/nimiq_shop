@@ -1,5 +1,5 @@
 ## Nimipay - Simple and Flexible Payments Gateway
-<br> <img src="https://splianel.sirv.com/Obfuscation.jpg" width="500" alt="" /> <br>
+<br> <img src="https://splianel.sirv.com/Obfuscation.jpg" width="560" alt="" /> <br>
 Demo: https://nimipay.com
 
 Nimipay creates an overlayed UI for the interaction with the user's NIM wallet, shopping cart, and items.
