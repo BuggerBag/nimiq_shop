@@ -1,6 +1,6 @@
 ## Nimipay - Simple and Flexible Payments Gateway🎩
 <img src="https://splianel.sirv.com/hero.png" width="800" alt="" /> <br>
-Demo: https://nimipay.com
+Demo: https://nimipay.com <br>
 Developer Tools: https://www.nimiq.com/developers/
 
 Nimipay creates an overlayed UI for the interaction with the user's NIM wallet, shopping cart, and items.
