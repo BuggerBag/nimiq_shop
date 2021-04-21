@@ -1,5 +1,5 @@
 ## Nimipay - Simple and Flexible Payments Gateway🎩
-<img src="https://splianel.sirv.com/hero.png" width="800" alt="" /> <br>
+<img src="https://splianel.sirv.com/hero.png" width="550" alt="" /> <img src="/nimiq-payment.gif?raw=true" width="250" /><br>
 Demo: https://nimipay.com <br>
 Developer Tools: https://www.nimiq.com/developers/
 
@@ -52,5 +52,5 @@ ________________________
 #### 🍩 NIMIQ Blockchain support BTC too.
 #### 🎩In future we tell you, How to Obfuscate Webpage that can be run on server but anyone can't know what happen to it!
 
-<img src="/nimiq-payment.gif?raw=true" width="300" />
+
 
