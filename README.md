@@ -1,5 +1,5 @@
 ## Nimipay - Simple and Flexible Payments Gateway🎩
-<img src="https://splianel.sirv.com/hero.png" width="550" alt="" /> <img src="/nimiq-payment.gif?raw=true" width="250" /><br>
+<img src="https://splianel.sirv.com/hero.png" width="700" alt="" /> <img src="/nimiq-payment.gif?raw=true" width="300" /><br>
 Demo: https://nimipay.com <br>
 Developer Tools: https://www.nimiq.com/developers/
 
